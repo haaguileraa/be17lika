@@ -6,7 +6,7 @@
 
 from distutils.core import setup
 from setuptools import find_packages
-setup(name='idm_id',
+setup(name='be17lika',
 version='0.1',
 author='Shirin Heidarikahkesh',
 author_email='shirin.heidarikahkesh@fau.de',
